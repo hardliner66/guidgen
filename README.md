@@ -2,4 +2,11 @@
 Small commandline utility to create a UUID.
 
 # Install
-cargo install guidgen
+```bash
+$ cargo install guidgen
+```
+
+# usage
+```bash
+$ guid
+```
